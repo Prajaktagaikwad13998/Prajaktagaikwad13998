@@ -8,7 +8,11 @@
 
 - 💬 Ask me about **Python, Django, Angular, and MySQL**
 
-- 📫 Reach me at **prajaktagaikwad13998@gmail.com**
+- 📧 Reach me at: [prajaktagaikwad13998@gmail.com](mailto:prajaktagaikwad13998@gmail.com)
+
+- 🚀 Currently learning: UI/UX Design with Figma
+
+- 🎯 Future Goals: Contribute to open-source projects  
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/prajaktagaikwad13998)
 
