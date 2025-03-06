@@ -42,6 +42,22 @@
     <a href="https://www.postman.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 </p>
+<h3 align="left">Projects:</h3>
+
+### 💰 **Esarwa (Accounting Software)**  
+- Designed and implemented a **robust and scalable backend**, ensuring bank-grade security.  
+- Integrated **e-invoice and e-waybill APIs**, reducing processing time significantly.  
+- Deployed the system on AWS with **S3 integration** for enhanced performance.  
+
+### 📦 **Warehouse Management Software**  
+- Developed backend logic and deployed the application on **Azure**.  
+- Led a **team of three developers**, ensuring timely delivery and high performance.  
+- Designed interactive reports using **Angular** for better data visualization.  
+
+### 🏡 **Society Management Software**  
+- Automated complex **accounting calculations**, reducing manual errors.  
+- Designed a **secure and scalable database** for future expansion.  
+- Managed a team of **five developers**, ensuring efficient project execution.  
 
 
 <!--
